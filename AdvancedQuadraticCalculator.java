@@ -1,7 +1,3 @@
-/*Student Name:Cheung Ho Lam
- * Student ID:53044907
- * Lab:LC3
- */
 import java.util.Scanner;
 public class AdvancedQuadraticCalculator 
 {
